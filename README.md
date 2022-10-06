@@ -7,7 +7,7 @@ Very simple Roles library without any authorization enforcement supporting scope
 
 Let's see an example:
 
-<%= link_to "user.has_role? (:moderator, @forum)"%>
+user.has_role? (:moderator, @forum)
 => false # if user is moderator of another Forum
 This library can be easily integrated with any authentication gem (devise, Authlogic, Clearance) and authorization gem* (CanCanCan, authority, Pundit)
 
