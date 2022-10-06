@@ -1,6 +1,7 @@
 # README
 
   <strong>Rolify</strong>
+  <br>
 rolify Gem Version build status Code Climate Coverage Status
 Very simple Roles library without any authorization enforcement supporting scope on resource object.
 
